@@ -1,0 +1,304 @@
+Cmp-Mod V01 Created by Cvpcb (2014-11-23 BZR 5300)-product   date = Fri 26 Dec 2014 03:52:13 PM EST
+
+BeginCmp
+TimeStamp = /5490E280;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5490E265;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5491B5D6;
+Reference = C3;
+ValeurCmp = CP2;
+IdModule  = Capacitors_SMD:c_elec_8x6.7;
+EndCmp
+
+BeginCmp
+TimeStamp = /5490DF3A;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5490E097;
+Reference = C5;
+ValeurCmp = C;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54915639;
+Reference = C6;
+ValeurCmp = C;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /549150F0;
+Reference = C7;
+ValeurCmp = C;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5490E15F;
+Reference = C8;
+ValeurCmp = C;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5491CB75;
+Reference = C9;
+ValeurCmp = C;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54914623;
+Reference = C10;
+ValeurCmp = C;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5491231B;
+Reference = C11;
+ValeurCmp = C;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54918BC8;
+Reference = C12;
+ValeurCmp = 2.2uf hv;
+IdModule  = Capacitors_SMD:c_elec_10x10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54913085;
+Reference = C13;
+ValeurCmp = 0.1uf hv;
+IdModule  = SMD_Packages:SMD-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5490F0C7;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5490F156;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5490F173;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5490F190;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54912F39;
+Reference = D5;
+ValeurCmp = DIODE;
+IdModule  = Diodes_SMD:Diode-SMB_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /54912ABA;
+Reference = L1;
+ValeurCmp = INDUCTOR;
+IdModule  = wbraun_packages:LPS8045;
+EndCmp
+
+BeginCmp
+TimeStamp = /5490E67B;
+Reference = P1;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /5490E839;
+Reference = P2;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /5491B89D;
+Reference = P3;
+ValeurCmp = CONN_01X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /54928E7C;
+Reference = P4;
+ValeurCmp = CONN_02X05;
+IdModule  = wbraun_packages:smd_header_10;
+EndCmp
+
+BeginCmp
+TimeStamp = /5490E342;
+Reference = Q1;
+ValeurCmp = NPN;
+IdModule  = wbraun_packages:SOT-223-NPN-BCE;
+EndCmp
+
+BeginCmp
+TimeStamp = /54911DD0;
+Reference = Q2;
+ValeurCmp = MOSFET_N;
+IdModule  = SMD_Packages:DPAK-3_GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5490EC33;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5490EC84;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5490ECAD;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5490F089;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54914A35;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5490E85C;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5491577A;
+Reference = R7;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5490EB74;
+Reference = R8;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5491BF73;
+Reference = R9;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54911F11;
+Reference = R10;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54911FAE;
+Reference = R11;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54911E6D;
+Reference = R12;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /54911FEB;
+Reference = R13;
+ValeurCmp = HV;
+IdModule  = SMD_Packages:SMD-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /54912030;
+Reference = R14;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54919286;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = wbraun_packages:button-5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5490D645;
+Reference = U1;
+ValeurCmp = CY8C4245LQI;
+IdModule  = wbraun_packages:QFN-40;
+EndCmp
+
+BeginCmp
+TimeStamp = /5490DE56;
+Reference = U2;
+ValeurCmp = MIC5205;
+IdModule  = SMD_Packages:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5490DB59;
+Reference = U3;
+ValeurCmp = TPS40210;
+IdModule  = wbraun_packages:10-MSOP;
+EndCmp
+
+EndListe
